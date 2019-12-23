@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "front_project",
+=======
+  "name": "frontpro",
+>>>>>>> e914b412971f14dfd5288b8b56d5a3cd64ba0f19
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +13,10 @@
   },
   "dependencies": {
     "core-js": "^3.4.3",
+<<<<<<< HEAD
     "element-ui": "^2.13.0",
+=======
+>>>>>>> e914b412971f14dfd5288b8b56d5a3cd64ba0f19
     "vue": "^2.6.10",
     "vue-router": "^3.1.3"
   },
