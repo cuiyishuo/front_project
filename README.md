@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # front_project
+=======
+# frontpro
+>>>>>>> e914b412971f14dfd5288b8b56d5a3cd64ba0f19
 
 ## Project setup
 ```
